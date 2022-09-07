@@ -7,5 +7,5 @@ There are no external libraries or assets required to run this script, though yo
 Click the appropriate link below to view different versions of the app:
 
 * alpha:  https://github.com/jda5/ccc-graphs-alpha
-* beta:   LINK
-* final:  LINK
+* beta:   https://github.com/jda5/ccc-graphs-beta
+* production:  https://github.com/jda5/ccc-graphs-production
