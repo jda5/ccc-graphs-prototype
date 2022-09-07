@@ -8,4 +8,4 @@ Click the appropriate link below to view different versions of the app:
 
 * alpha:  https://github.com/jda5/ccc-graphs-alpha
 * beta:   https://github.com/jda5/ccc-graphs-beta
-* production:  https://github.com/jda5/ccc-graphs-production
+* production (final):  https://github.com/jda5/ccc-graphs-production
